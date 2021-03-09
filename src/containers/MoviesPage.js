@@ -12,4 +12,6 @@ const MoviesPage = ({ match, movies }) => (
   </div>
 )
 
+//submitting to learn
+
 export default MoviesPage 
